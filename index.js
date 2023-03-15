@@ -33,3 +33,4 @@ console.log(page['fossil']);
 
 //accessing the child page using page object
 console.log(page.childPage.number);
+console.log("gitn");
